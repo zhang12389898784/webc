@@ -1,0 +1,10 @@
+.for_video1{
+    display: flex;
+    flex-wrap:wrap;
+    width: 100%;
+}
+.video{
+    width: 22%;
+    height: 230px; 
+    margin: 20px;
+}
